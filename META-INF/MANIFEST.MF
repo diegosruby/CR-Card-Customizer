@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: 0
+Bundle-SymbolicName: PROYECTO_CR_1.0
+Bundle-Version: 1.0.0.qualifier
+Export-Package: .
